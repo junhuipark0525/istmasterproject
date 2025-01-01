@@ -2,8 +2,13 @@
 Full Stack Program to manage music audition scores using Python, tkinter, and mySQL
 
 ## Files
+### auditionDatabase.sql
+* mySQL file
+* manage all data
+* connected with the Python files
+
 ### auditionDb.py
-* mySQL
+* connect to mySQL
 * different functions to manage student data
   * insert, delete, update, reading data, and connect/disconnect to mySQL
  
